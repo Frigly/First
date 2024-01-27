@@ -1,0 +1,12 @@
+.nav{
+  text-align: center;
+}
+.nav-link{
+  display: block;
+  padding: 10px; 
+  color: rgb(44, 44, 137);
+  font-weight: 600;
+}
+.nav-link:hover{
+    transform: scale(1.05);
+}

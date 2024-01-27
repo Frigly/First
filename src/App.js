@@ -6,7 +6,7 @@ import Profile from './components/Profile/Profile';
 
 function App() {
   return (
-    <div className="App">
+    <div className="app">
       <Header />
       <NavBar />
       <Profile />
